@@ -5,7 +5,12 @@
   </a>
 </p>
 
-<p align="center"><strong>Want to Play? Click on the Cookie</strong></p>
+<p align="center">
+  <a href="https://cookieclickerunblocked.games/" style="text-decoration: none; font-weight: bold; font-size: 16px;">
+    Want to Play? Click on the Cookie
+  </a>
+</p>
+
 
 In today’s fast-paced world, Cookie Clicker Unblocked has become a means for everyone to have an accessible and fun gaming experience. No downloads or installations are required. 
 You can play this game directly in your browser. These are versions of the game hosted on sites that slip under the radar of annoying network filters. It can be played on different devices and networks, 
