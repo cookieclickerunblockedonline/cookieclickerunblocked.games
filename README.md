@@ -1,4 +1,12 @@
 # Cookie Clicker Unblocked
+<p align="center">
+  <a href="https://cookieclickerunblocked.games/">
+    <img src="https://cookieclickerunblocked.games/wp-content/uploads/2025/01/PerfectCookie.webp" alt="Cookie" width="150">
+  </a>
+</p>
+
+<p align="center"><strong>Want to Play? Click on the Cookie</strong></p>
+
 In today’s fast-paced world, Cookie Clicker Unblocked has become a means for everyone to have an accessible and fun gaming experience. No downloads or installations are required. 
 You can play this game directly in your browser. These are versions of the game hosted on sites that slip under the radar of annoying network filters. It can be played on different devices and networks, 
 even in environments where 
